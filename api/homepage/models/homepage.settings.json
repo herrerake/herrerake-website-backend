@@ -11,17 +11,21 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "Title": {
-      "type": "string"
-    },
-    "Subtitle": {
-      "type": "text"
-    },
-    "Hero": {
+    "hero": {
       "type": "component",
       "repeatable": false,
       "component": "components.hero-section",
       "required": true
+    },
+    "showcase": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.showcase"
+    },
+    "blocklink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.blocklink"
     }
   }
 }

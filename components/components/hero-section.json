@@ -31,12 +31,7 @@
     },
     "button": {
       "type": "component",
-      "repeatable": false,
-      "component": "components.button"
-    },
-    "secondaryButton": {
-      "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "component": "components.button"
     }
   }
