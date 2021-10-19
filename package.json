@@ -1,8 +1,8 @@
 {
-  "name": "my-project",
+  "name": "herrerake",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Herrerake CMS",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -16,20 +16,20 @@
     "pg": "^8.5.1",
     "pg-connection-string": "^2.4.0",
     "sqlite3": "5.0.0",
-    "strapi": "3.4.6",
-    "strapi-admin": "3.4.6",
-    "strapi-connector-bookshelf": "3.4.6",
-    "strapi-plugin-content-manager": "3.4.6",
-    "strapi-plugin-content-type-builder": "3.4.6",
-    "strapi-plugin-email": "3.4.6",
-    "strapi-plugin-graphql": "3.4.6",
-    "strapi-plugin-upload": "3.4.6",
-    "strapi-plugin-users-permissions": "3.4.6",
+    "strapi": "3.6.1",
+    "strapi-admin": "3.6.1",
+    "strapi-connector-bookshelf": "3.6.1",
+    "strapi-plugin-content-manager": "3.6.1",
+    "strapi-plugin-content-type-builder": "3.6.1",
+    "strapi-plugin-email": "3.6.1",
+    "strapi-plugin-graphql": "3.6.1",
+    "strapi-plugin-upload": "3.6.1",
+    "strapi-plugin-users-permissions": "3.6.1",
     "strapi-provider-upload-cloudinary": "^3.5.0",
-    "strapi-utils": "3.4.6"
+    "strapi-utils": "3.6.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Herrerake"
   },
   "strapi": {
     "uuid": "a157e02d-4868-492f-a09a-e9e21568c02d"
