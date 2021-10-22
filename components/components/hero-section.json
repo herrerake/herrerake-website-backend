@@ -9,13 +9,11 @@
   "attributes": {
     "subtitle": {
       "type": "string",
-      "required": true,
-      "maxLength": 16
+      "required": true
     },
     "title": {
       "type": "string",
-      "required": true,
-      "maxLength": 32
+      "required": true
     },
     "image": {
       "model": "file",
