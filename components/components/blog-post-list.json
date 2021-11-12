@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_components_blog_post_lists",
+  "info": {
+    "name": "blogPostList",
+    "icon": "rss-square"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
