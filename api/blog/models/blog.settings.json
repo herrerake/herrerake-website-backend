@@ -41,6 +41,11 @@
     "users_permissions_role": {
       "plugin": "users-permissions",
       "model": "role"
+    },
+    "author": {
+      "via": "blogs",
+      "plugin": "users-permissions",
+      "model": "user"
     }
   }
 }
